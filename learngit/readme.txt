@@ -3,4 +3,4 @@ Git is free software and very strong.
 modify from three times!
 Git tracks changes.
 Git fourth time modify.
-branch modify.
+delete branch test.
